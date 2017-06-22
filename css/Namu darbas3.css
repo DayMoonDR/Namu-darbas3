@@ -1,7 +1,8 @@
 div.container {
-    width: 50%;
+    width: 670px;
     border: 1px solid black;
     margin: 15px auto;
+    overflow: hidden;
 }
 
 header, footer {
